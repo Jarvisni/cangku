@@ -15,7 +15,7 @@ int main()
 	while (1)
 	{	
 		printf("性感荷官，在线发牌\n");
-		
+		;
 		srand(time(NULL));
 		printf("Start\n");
 		a=rand()%10+1;
@@ -71,7 +71,7 @@ int main()
 			}
     	}
 		
-		
+		;
 		printf("再玩一次？请输入y或n，或者按q退出程序\n");
 		putchar('\n'); putchar('\n');
 		
